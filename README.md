@@ -1,2 +1,2 @@
 # Project-X
-This contains links for easy DIY courses to data science
+This contains links for easy DIY courses in data science
